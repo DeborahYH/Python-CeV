@@ -1,0 +1,7 @@
+Fernando: 23
+Talita: 19
+Rafaela: 20
+Gabriel: 25
+Mateus: 18
+
+Diego: 28 
